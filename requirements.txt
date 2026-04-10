@@ -1,4 +1,4 @@
-fastapi==0.111.4
-uvicorn[standard]==0.24.0
-pymongo==4.7.0
-python-dotenv==1.0.0
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
